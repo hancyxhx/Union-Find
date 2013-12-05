@@ -1,4 +1,4 @@
 union-find
 ==========
 
-union find algorithm
+implemention of union find algorithm

@@ -35,6 +35,7 @@ int main(int argc, char *argv[]){
 	}
     }
 
+    /* output result*/
     for (i = 0; i< MAX_ITEM_NUM; i++){
 	j = i;
 	while (j != a[j])
